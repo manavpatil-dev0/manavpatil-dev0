@@ -1,5 +1,5 @@
 Hey there! 👋
-I'm Manav Patil, a Software Engineer from India 🇮🇳.
+I'm Manav Patil, a Future Software Engineer from India.
 
 I enjoy solving problems, building useful software, and constantly learning new technologies. My current focus is becoming a strong backend/cloud engineer while building AI-powered applications along the way.
 
@@ -14,15 +14,10 @@ I enjoy solving problems, building useful software, and constantly learning new 
 🛠 Tech Stack:
 
 Languages: • Java • JavaScript • SQL • HTML • CSS
-
 Backend: • Node.js • Express.js • REST APIs 
-
 Frontend: • React • Bootstrap 
-
 Databases: • MongoDB • PostgreSQL • MS SQL Server
-
 DevOps & Cloud: • Linux • Git & GitHub • Docker • Kubernetes (Learning) • AWS (Learning)
- 
 AI: • OpenAI API • Prompt Engineering • RAG (Learning)
 
 📌 Featured Projects: 
