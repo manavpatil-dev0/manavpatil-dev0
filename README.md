@@ -29,4 +29,3 @@ Email: manavpatil.dev@gmail.com
 LinkedIn: www.linkedin.com/in/manav-patil-dev0
 
 > Keep building. Keep learning. Stay consistent.
-LeetCode: https://leetcode.com/u/buildwithmanav/
