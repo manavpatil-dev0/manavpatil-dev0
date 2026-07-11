@@ -27,5 +27,6 @@ AI: • OpenAI API • Prompt Engineering • RAG (Learning)
 📫 Reach Me:
 Email: manavpatil.dev@gmail.com
 LinkedIn: www.linkedin.com/in/manav-patil-dev0
-LeetCode: https://leetcode.com/u/buildwithmanav/
+
 > Keep building. Keep learning. Stay consistent.
+LeetCode: https://leetcode.com/u/buildwithmanav/
