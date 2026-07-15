@@ -14,10 +14,15 @@ I enjoy solving problems, building useful software, and constantly learning new 
 🛠 Tech Stack:
 
 Languages: • Java • JavaScript • SQL • HTML • CSS
+
 Backend: • Node.js • Express.js • REST APIs 
+
 Frontend: • React • Bootstrap 
+
 Databases: • MongoDB • PostgreSQL • MS SQL Server
+
 DevOps & Cloud: • Linux • Git & GitHub • Docker • Kubernetes (Learning) • AWS (Learning)
+
 AI: • OpenAI API • Prompt Engineering • RAG (Learning)
 
 📌 Featured Projects: 
