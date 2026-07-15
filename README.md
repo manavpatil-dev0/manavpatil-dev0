@@ -27,6 +27,7 @@ AI: • OpenAI API • Prompt Engineering • RAG (Learning)
 
 📌 Featured Projects: 
 🤖 AI Incident Resolution Assistant: An AI assistant that helps support engineers troubleshoot incidents using company documentation and historical resolutions.
+
 📈 Stock Trading Platform: A MERN application featuring authentication, portfolio management, and real-time profit/loss calculations.
 
 📫 Reach Me:
